@@ -13,4 +13,3 @@ echo'</tr>';
 $p++;
 }
 echo'</table>';
-?>
